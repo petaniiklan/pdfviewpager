@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.petaniiklan:pdfviewpager:0.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c4f83bd801677d71f95aa9213dea26b4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c4f83bd801677d71f95aa9213dea26b4/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.petaniiklan/pdfviewpager/0.0.1/9caa45c54417e291d3eb0bddbca7cb1772420cf4/pdfviewpager-0.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
